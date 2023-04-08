@@ -6,7 +6,7 @@
 ```sh
 var developements = {
     "Web Development" : {
-        "Languages" : [ "Python" , "go", "JavaScript", ] ,
+        "Languages" : [ "Python" ,"rust", "go", "JavaScript", ] ,
         "Frameworks" : [ "FastAPI", "Laravel", "MongoDB", 
                         "MySQL" ]
     }
