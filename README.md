@@ -10,8 +10,7 @@ var developements = {
         "Frameworks" : [ "FastAPI","Express", "Fiber", "MongoDB", "MySQL", "Postgres" ]
     }
     "Machine Learning" : {
-        "Languages" : ["Python"] ,
-<!--         "Libraries" : ["Numpy", "Pandas", "Matplotlib", "Sklearn", "Pytorch" ] -->
+        "Languages" : ["Python"]
     }
 }
 ```
@@ -19,6 +18,7 @@ var developements = {
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avyukth&langs_count=20&theme=highcontrast&layout=compact" />
     </a>
+    <!--         "Libraries" : ["Numpy", "Pandas", "Matplotlib", "Sklearn", "Pytorch" ] -->
 </div>
 
 
