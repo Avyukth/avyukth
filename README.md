@@ -7,12 +7,11 @@
 var developements = {
     "Web Development" : {
         "Languages" : [ "Python" ,"rust", "go", "JavaScript", ] ,
-        "Frameworks" : [ "FastAPI", "Laravel", "MongoDB", 
-                        "MySQL" ]
+        "Frameworks" : [ "FastAPI","Express", "Fiber", "MongoDB", "MySQL", "Postgres" ]
     }
     "Machine Learning" : {
         "Languages" : ["Python"] ,
-        "Libraries" : ["Numpy", "Pandas", "Matplotlib", "Sklearn", "Pytorch" ]
+<!--         "Libraries" : ["Numpy", "Pandas", "Matplotlib", "Sklearn", "Pytorch" ] -->
     }
 }
 ```
