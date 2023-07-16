@@ -13,7 +13,7 @@
 ```sh
 var developements = {
     "Web Development" : {
-        "Languages" : [ "Python" ,"rust", "go", "JavaScript", ] ,
+        "Languages" : [ "Python" ,"Rust", "Go", "JavaScript", ] ,
         "Frameworks" : [ "FastAPI","Express", "Fiber", "MongoDB", "MySQL", "Postgres" ]
     }
     "Machine Learning" : {
