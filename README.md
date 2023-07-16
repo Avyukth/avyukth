@@ -8,8 +8,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=avyukth&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 
-
-
 ```sh
 var developements = {
     "Web Development" : {
@@ -22,9 +20,9 @@ var developements = {
 }
 ```
 <div align=right>
-<!--     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avyukth&langs_count=20&theme=highcontrast&layout=compact" />
-    </a> -->
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avyukth&langs_count=20&theme=highcontrast&layout=compact&hide=jupyter+notebook,HTML,php,css" />
+    </a>
     <!--         "Libraries" : ["Numpy", "Pandas", "Matplotlib", "Sklearn", "Pytorch" ] -->
 </div>
 
@@ -54,19 +52,12 @@ var developements = {
   </div>  
 </p>
 
-## 
-
-<div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=avyukth&theme=onedark&column=8" alt="zumrudu-anka" />
-    </a>
-</div>
-
 ##
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/subhrajitmakur/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
             width="40" /></a>
-</p>
+    </p>
+
 
