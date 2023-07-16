@@ -22,9 +22,9 @@ var developements = {
 }
 ```
 <div align=right>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avyukth&langs_count=20&theme=highcontrast&layout=compact" />
-    </a>
+    </a> -->
     <!--         "Libraries" : ["Numpy", "Pandas", "Matplotlib", "Sklearn", "Pytorch" ] -->
 </div>
 
@@ -36,9 +36,7 @@ var developements = {
 - Linktree details (https://linktr.ee/subhrajit.eth)
 <!-- - My blog and website: https://subhrajit.me -->
 - Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
-## 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Avyukth)](https://github.com/ashutosh00710/github-readme-activity-graph)
-##
+
 
 
 <!-- 
