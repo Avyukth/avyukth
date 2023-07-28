@@ -1,11 +1,8 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi+👋,+I'm+Subhrajit+passionate+software+developer)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi+👋,+I'm+Subhrajit+passionate+software+developer)](https://git.io/typing-svg)
 ![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
 
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=avyukth&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg) -->
 
 
 ```sh
@@ -31,11 +28,13 @@ var developements = {
 [https://github.com/Avyukth](https://github.com/avyukth/)
 
 - 📫 How to reach me, drop an email at **makur[dot]subhrajit[at]gmail[dot]com**
+- What am I learning, documenting here:  [pathshala.academy](https://www.pathshala.academy/)
 - Linktree details (https://linktr.ee/subhrajit.eth)
+- Linkedin (https://www.linkedin.com/in/subhrajitmakur/)
+- Resume (https://github.com/avyukth)
 <!-- - My blog and website: https://subhrajit.me -->
-- My blog : https://www.pathshala.academy/publish/posts
-- Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
 
+- Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
 
 
 <!-- 
