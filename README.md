@@ -29,9 +29,9 @@ var developements = {
 
 - 📫 How to reach me, drop an email at **makur[dot]subhrajit[at]gmail[dot]com**
 - What am I learning, documenting here:  [pathshala.academy](https://www.pathshala.academy/)
-- Linktree details (https://linktr.ee/subhrajit.eth)
-- Linkedin (https://www.linkedin.com/in/subhrajitmakur/)
-- Resume (https://github.com/avyukth)
+- [Linktree](https://linktr.ee/subhrajit.eth)
+- [Linkedin](https://www.linkedin.com/in/subhrajitmakur/)
+- [Resume](https://drive.google.com/file/d/189VB5GSpVpf0IsbdPmmAGDpGsSoBjirP/view)
 <!-- - My blog and website: https://subhrajit.me -->
 
 - Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
