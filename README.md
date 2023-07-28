@@ -31,6 +31,7 @@ var developements = {
 - What am I learning, documenting here:  [pathshala.academy](https://www.pathshala.academy/)
 - [Linktree](https://linktr.ee/subhrajit.eth)
 - [Linkedin](https://www.linkedin.com/in/subhrajitmakur/)
+- [Peerlist](https://peerlist.io/subhrajit)
 - [Resume](https://drive.google.com/file/d/189VB5GSpVpf0IsbdPmmAGDpGsSoBjirP/view)
 <!-- - My blog and website: https://subhrajit.me -->
 
