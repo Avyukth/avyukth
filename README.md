@@ -33,6 +33,7 @@ var developements = {
 - 📫 How to reach me, drop an email at **makur[dot]subhrajit[at]gmail[dot]com**
 - Linktree details (https://linktr.ee/subhrajit.eth)
 <!-- - My blog and website: https://subhrajit.me -->
+- My blog : https://www.pathshala.academy/publish/posts
 - Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
 
 
