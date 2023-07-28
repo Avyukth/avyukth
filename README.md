@@ -35,23 +35,22 @@ var developements = {
 - [Resume](https://drive.google.com/file/d/189VB5GSpVpf0IsbdPmmAGDpGsSoBjirP/view)
 <!-- - My blog and website: https://subhrajit.me -->
 
-- Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
+- Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open-source works.
 
 
 <!-- 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> -->
 
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=avyukth&theme=react&border=61dafb" alt="zumrudu-anka" />
-    </a>
-      <br><br>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=avyukth&show_icons=true&theme=react&border_color=61dafb"/>
-    </a>
-  </div>  
-</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img style="height: auto; max-width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=avyukth&theme=react&border=61dafb" alt="zumrudu-anka" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img style="height: auto; max-width: 50%;" src="https://github-readme-stats.vercel.app/api?username=avyukth&show_icons=true&theme=react&border_color=61dafb"/>
+  </a>
+</div>  
+
+
 
 ##
 <h3 align="center">Connect with me:</h3>
