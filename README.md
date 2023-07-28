@@ -8,7 +8,7 @@
 ```sh
 var developements = {
     "Web Development" : {
-        "Languages" : [ "Python" ,"Rust", "Go", "JavaScript", ] ,
+        "Languages" : [  "Go", "Python" ,"Rust","JavaScript" ] ,
         "Frameworks" : [ "FastAPI","Express", "Fiber", "MongoDB", "MySQL", "Postgres" ]
     }
     "Machine Learning" : {
