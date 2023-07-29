@@ -43,10 +43,10 @@ var developements = {
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img style="height: auto; max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=avyukth&theme=react&border=61dafb" alt="zumrudu-anka" />
+    <img style="height: auto; max-width: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=avyukth&theme=react&border=61dafb" alt="zumrudu-anka" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img style="height: auto; max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=avyukth&show_icons=true&theme=react&border_color=61dafb"/>
+    <img style="height: auto; max-width: auto;" src="https://github-readme-stats.vercel.app/api?username=avyukth&show_icons=true&theme=react&border_color=61dafb"/>
   </a>
 </div>  
 
