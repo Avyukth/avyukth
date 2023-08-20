@@ -15,7 +15,6 @@ var developments = {
     }
 }
 ```
-[![](https://visitcount.itsvg.in/api?id=avyukth&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avyukth&langs_count=20&theme=highcontrast&layout=compact&hide=jupyter+notebook,HTML,php,css" />
