@@ -23,7 +23,7 @@ var developments = {
 </div>
 
 - 👨‍💻 All of my projects are available at
-  [https://github.com/Avyukth](https://github.com/avyukth/)
+  [github](https://github.com/avyukth/)
 
 - 📫 How to reach me, drop an email at **makur[dot]subhrajit[at]gmail[dot]com**
 - What am I learning, documenting here: [pathshala.academy](https://www.pathshala.academy/)
