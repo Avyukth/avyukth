@@ -17,7 +17,7 @@ var developments = {
 ```
 <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avyukth&langs_count=20&theme=highcontrast&layout=compact&hide=jupyter+notebook,HTML,php,css" />
+      <img width=325 align="right" src="https://stats.subhrajit.me/api/top-langs/?username=avyukth&langs_count=20&theme=highcontrast&layout=compact&hide=jupyter+notebook,HTML,php,css" />
     </a>
     <!--         "Libraries" : ["Numpy", "Pandas", "Matplotlib", "Sklearn", "Pytorch" ] -->
 </div>
@@ -43,7 +43,7 @@ var developments = {
     <img style="height: auto; max-width: auto;" src="https://streak-stats.demolab.com/?user=avyukth&theme=react&border=61dafb" alt="zumrudu-anka" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img style="height: auto; max-width: auto;" src="https://github-readme-stats.vercel.app/api?username=avyukth&show_icons=true&theme=react&border_color=61dafb"/>
+    <img style="height: auto; max-width: auto;" src="https://stats.subhrajit.me/api?username=avyukth&show_icons=true&theme=react&border_color=61dafb"/>
   </a>
 </div>
 
