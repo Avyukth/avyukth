@@ -16,7 +16,7 @@ var developments = {
 }
 ```
 <div align=right>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/avyukth/git-readme">
       <img width=325 align="right" src="https://stats.subhrajit.me/api/top-langs/?username=avyukth&langs_count=20&theme=highcontrast&layout=compact&hide=jupyter+notebook,HTML,php,css" />
     </a>
     <!--         "Libraries" : ["Numpy", "Pandas", "Matplotlib", "Sklearn", "Pytorch" ] -->
@@ -42,7 +42,7 @@ var developments = {
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
     <img style="height: auto; max-width: auto;" src="https://streak-stats.demolab.com/?user=avyukth&theme=react&border=61dafb" alt="zumrudu-anka" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <a href="https://github.com/avyukth/git-readme" title="Go to Source">
     <img style="height: auto; max-width: auto;" src="https://stats.subhrajit.me/api?username=avyukth&show_icons=true&theme=react&border_color=61dafb"/>
   </a>
 </div>
