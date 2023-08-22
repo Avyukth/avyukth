@@ -17,7 +17,7 @@ var developments = {
 ```
 <div align=right>
     <a href="https://github.com/avyukth/git-readme">
-      <img width=325 align="right" src="https://stats.subhrajit.me/api/top-langs/?username=avyukth&langs_count=20&theme=highcontrast&layout=compact&hide=jupyter+notebook,HTML,php,css" />
+      <img width=325 align="right" src="https://stats.subhrajit.me/api/top-langs/?username=avyukth&langs_count=20&theme=highcontrast&layout=compact&hide=jupyter+notebook,HTML,php,css,Javascript,Java" />
     </a>
     <!--         "Libraries" : ["Numpy", "Pandas", "Matplotlib", "Sklearn", "Pytorch" ] -->
 </div>
