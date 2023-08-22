@@ -39,8 +39,8 @@ var developments = {
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> -->
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img style="height: auto; max-width: auto;" src="https://streak-stats.demolab.com/?user=avyukth&theme=react&border=61dafb" alt="zumrudu-anka" />
+  <a href="https://github.com/avyukth/git-streak" title="Go to Source">
+    <img style="height: auto; max-width: auto;" src="https://streaks.subhrajit.me/?user=avyukth&theme=react&border=61dafb"/>
   </a>
   <a href="https://github.com/avyukth/git-readme" title="Go to Source">
     <img style="height: auto; max-width: auto;" src="https://stats.subhrajit.me/api?username=avyukth&show_icons=true&theme=react&border_color=61dafb"/>
