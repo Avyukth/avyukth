@@ -7,8 +7,9 @@
 ```sh
 var developments = {
     "Web Development": {
-        "Languages" : [  "Go", "Python","Rust", "JavaScript" ],
-        "Frameworks" : [ "FastAPI", "Express", "Fiber", "MongoDB", "MySQL", "Postgres" ]
+        "Languages" : [  "Go", "Python", "Rust", "JavaScript" ],
+        "Frameworks" : [ "FastAPI", "Express", "Fiber", "MongoDB", "Postgres" ]
+        "Tools" : [ "AWS", "Docker", "Kubernetes", "ARGO workflow", "GitHub Actions" ]
     }
     "Machine Learning": {
         "Languages" : ["Python"]
@@ -62,7 +63,7 @@ var developments = {
 <!--    (Tessell | NOV 2022 - APR 2023 )-->
 <!--    * Built password policy for existing and forthcoming users, thereby empowering them to control their own and managed user password protocols.-->
 <!--    * Leveraged Argo Workflow to transform multiple synchronous services into asynchronous ones by efficiently allocating the required resources, resulting in a 10% boost in provisioning efficiency.-->
-<!--    * Stack: Go, Python, Java, openAPI, Docker, Kubernetes, PostgreSQL, Redis, Argo-workflow, Terraform and Gitlab CI.-->
+<!--    * Stack: Go, Python, Java, openAPI, Docker, Kubernetes, PostgreSQL, Redis, Argo-workflow, Terraform, and Gitlab CI.-->
 
 <!--* **BACKEND DEVELOPER**-->
 <!--    (Zupee | AUG 2021 - AUG 2022 )-->
@@ -80,7 +81,7 @@ var developments = {
 <!--    * Architectured, developed, and scaled multiple core components from scratch - e.g. Referral System Impact: 3x growth of GMV observed in 4 weeks.-->
 <!--    * Used standard Google OAuth 2.0 framework to allow merchants to signup and log In Razorpay’s Dashboard-->
 <!--    * Redesigned email verification of new businesses. -->
-<!--        * Impact: growth was observed in MTU conversion, 7% more merchants were now completing their signup process.-->
+<!--        * Impact: Growth was observed in MTU conversion, 7% more merchants were now completing their signup process.-->
 <!--    * Stack: Go, Python, PHP, Laravel, Terraform, AWS Lambdas, PostgreSQL,  and AWS.-->
 
 <!--* **FULLSTACK DEVELOPER**-->
